@@ -1,0 +1,24 @@
+# Build gerados
+build/
+.gradle/
+.idea/
+*.iml
+
+# Arquivos de configuração locais
+local.properties
+
+# Arquivos gerados
+*.apk
+*.aab
+*.jar
+*.class
+*.dex
+
+# Arquivos temporários
+*.log
+*.tmp
+*.swp
+
+# Arquivos longos específicos
+app/build/intermediates/
+app/build/outputs/
