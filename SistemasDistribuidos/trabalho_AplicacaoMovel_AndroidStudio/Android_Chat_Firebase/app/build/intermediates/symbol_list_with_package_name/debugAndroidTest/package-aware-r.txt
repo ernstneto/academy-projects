@@ -1,0 +1,3 @@
+com.example.easychat.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme

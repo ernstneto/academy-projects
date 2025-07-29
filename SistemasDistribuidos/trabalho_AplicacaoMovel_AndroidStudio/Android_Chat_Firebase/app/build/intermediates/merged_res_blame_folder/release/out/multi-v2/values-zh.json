@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.easychat.app-mergeReleaseResources-38:/values-zh/values-zh.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\peter\\.gradle\\caches\\transforms-3\\8878c11ebb1eec0a5bcbd697dc7ae5af\\transformed\\ucrop-2.2.6\\res\\values-zh\\values-zh.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,109,163",
+                        "endColumns": "53,53,46",
+                        "endOffsets": "104,158,205"
+                    }
+                }
+            ]
+        }
+    ]
+}
